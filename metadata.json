@@ -1,0 +1,5 @@
+{
+  "name": "BioStruct AI",
+  "description": "AI-powered analysis of drug-protein interactions, identifying binding sites and protein structures.",
+  "requestFramePermissions": []
+}

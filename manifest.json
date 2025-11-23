@@ -1,0 +1,17 @@
+{
+  "name": "BioStruct AI",
+  "short_name": "BioStruct",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "description": "AI-powered structural biology analysis for drug discovery.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3022/3022278.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
